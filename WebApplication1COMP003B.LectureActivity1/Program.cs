@@ -4,7 +4,7 @@ namespace WebApplication1COMP003B.LectureActivity1
      * Author: Victor Flores
      * Course: COMP-003B-L01
      * Faculty: Jonathon Cruz
-     * Purpose: My first ASP.NET Core Application.
+     * Purpose: My first ASP.NET Core Application
      */
     public class Program
     {
